@@ -88,17 +88,17 @@ public class EInkReaderMenuHandler implements IReaderMenuHandler {
 
     }
 
-    @Override
+
     public boolean canSmartReflow() {
         return false;
     }
 
-    @Override
+
     public boolean isSmartReflow() {
         return false;
     }
 
-    @Override
+
     public void setSmartReflow(boolean enable) {
 
     }

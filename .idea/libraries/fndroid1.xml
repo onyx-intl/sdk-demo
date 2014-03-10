@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="fndroid">
+  <library name="fndroid1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../android/OnyxAndroidSDK/libs/fndroid.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/libs/fndroid.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
